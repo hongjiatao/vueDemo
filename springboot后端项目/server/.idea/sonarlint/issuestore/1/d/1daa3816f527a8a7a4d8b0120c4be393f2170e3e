@@ -1,0 +1,28 @@
+
+u
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚â’D8÷À„›Š1
+v
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠñÍ¹8øÀ„›Š1
+v
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(…”Àƒ8ùÀ„›Š1
+{
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ¬‰øÿÿÿÿ8úÀ„›Š1
+v
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(èË¸æ8úÀ„›Š1
+{
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ËÀéúÿÿÿÿ8üÀ„›Š1
+j
+java:S11929"HDefine a constant instead of duplicating this literal "user_id" 3 times.(´š„–øÿÿÿÿ8’Á„›Š1
+l	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚â’D8“Á„›Š1
+m	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠñÍ¹8”Á„›Š1
+m	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…”Àƒ8”Á„›Š1
+|
+java:S1488O"_Immediately return this expression instead of assigning it to the temporary variable "members".(âõ¢Õ8—Á„›Š1
+}
+java:S1488x"`Immediately return this expression instead of assigning it to the temporary variable "pageData".(î¯è8—Á„›Š1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¯É„›Š1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8²É„›Š1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8³É„›Š1

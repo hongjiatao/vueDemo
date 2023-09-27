@@ -1,0 +1,14 @@
+访问地址：
+http://localhost:8080/
+
+账号登录：
+管理员
+admin 123456
+
+老师
+laoshi 123456
+
+
+学生
+
+zhangsan 123456

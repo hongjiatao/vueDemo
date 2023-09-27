@@ -1,0 +1,19 @@
+
+w
+java:S1488%"\Immediately return this expression instead of assigning it to the temporary variable "flag".(óØ†úøÿÿÿÿ
+r
+java:S1488I"\Immediately return this expression instead of assigning it to the temporary variable "flag".(•±ùË
+U
+java:S1118	":Add a private constructor to hide the implicit public one.(Íë¹’ûÿÿÿÿ
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(Ê¿Õ¤úÿÿÿÿ
+\
+java:S11268"AReplace this if-then-else statement by a single return statement.(ªœ–Áûÿÿÿÿ
+\
+java:S1126V"AReplace this if-then-else statement by a single return statement.(ŠÂœùÿÿÿÿ
+L
+java:S2692V"10 is a valid index, but is ignored by this check.(ŠÂœùÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã
+O
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ
